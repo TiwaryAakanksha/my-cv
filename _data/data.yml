@@ -76,9 +76,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: |
-     Research Intern - Source Apportionment and Degradation 
-     Status of Organic Matter
+    - role: Research Intern - Source Apportionment and Degradation Status of Organic Matter
     time: May 2021 - Present
     company: DR. ANOOP AMBILI, ASSISTANT PROFESSOR, IISER MOHALI
     details: |
@@ -93,8 +91,19 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - (in process) Learned about different indices based on lipid biomarkers and amino acid derivatives for studying paleoclimate
           - Experimental Techniques - Speed extraction, Column chromatography and Gas chromatography mass spectrometry(GC-MS).
-    - role: Research Intern - Literature review on the use of Reformatsky Reaction in the synthesis of Natural products
+    - role: Research Intern - Source Apportionment and Degradation Status of Organic Matter
       time: May 2020 - Dec 2020
+      company: DR. ANOOP AMBILI, ASSISTANT PROFESSOR, IISER MOHALI
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Worked on making monograph of the research papers published related to this topic.
+          - Learned new concepts of Organic Chemistry like stereogenic centers, coupling reactions, optimization methods etc.
+    - role: Research Intern - Literature review on the use of Reformatsky Reaction in the synthesis of Natural products
+      time: May 2021 - Present
       company: DR. S. ARULANANDA BABU, ASSOCIATE PROFESSOR, IISER MOHALI
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
