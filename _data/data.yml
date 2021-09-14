@@ -89,30 +89,53 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - (in process) Learned about different indices based on lipid biomarkers and amino acid derivatives for studying paleoclimate
+          - Experimental Techniques - Speed extraction, Column chromatography and Gas chromatography mass spectrometry(GC-MS).
+    - role: Research Intern - Literature review on the use of Reformatsky Reaction in the synthesis of Natural products
+      time: May 2020 - Dec 2020
+      company: DR. S. ARULANANDA BABU, ASSOCIATE PROFESSOR, IISER MOHALI
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Worked on making monograph of the research papers published related to this topic.
+          - Learned new concepts of Organic Chemistry like stereogenic centers, coupling reactions, optimization methods etc.
+    - role: Research Intern - Literature work on ”Indium based Reformatsky reaction” and ”Imine indium reactions”
+      time: June 2019 - Dec 2019
+      company: DR. S. ARULANANDA BABU, ASSOCIATE PROFESSOR, IISER MOHALI
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Worked on making monograph of all the literature published related to this topic
+          - Learned new concepts of Organic Chemistry like metal-mediated Organic reactions, catalysis etc.
+          -Learned using ChemDraw software
+    - role: Research Intern - Laboratory work in C-H activation and Metal-Mediated Organic Synthesis(CAMMOS) lab
+      time: May 2019
+      company: DR. S. ARULANANDA BABU, ASSOCIATE PROFESSOR, IISER MOHALI
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Hands on experience on various techniques- Column chromatography, Nuclear Magnetic Resonance(NMR) sample preparation, Distillation, Rotary evaporator, Thin-layer Chromatography(TLC), Acid-base extraction, Gravity and vacuum filtration, crystallization etc
+    - role: Research Intern - Planetary Motions
+      time: May 2018 - Jul 2018
+      company: DR. SANDEEP GOYAL, ASSISTANT PROFESSOR, IISER MOHALI
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Studied about the precision of Mercury and its relation with the theory of General relativity
+          - Did Computational analysis using MATLAB
+                
 projects:
     title: Projects
     intro: >
