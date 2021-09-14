@@ -64,7 +64,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Minoer in Earth-Sciences
+    - degree: Minor in Earth-Sciences
       university: IISER Mohali
       time: 2017 - 2022
       details: |
@@ -76,10 +76,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Research Intern - Source Apportionment and Degradation Status of Organic Matter
-      time: May 2021 - Present
-      company: DR. ANOOP AMBILI, ASSISTANT PROFESSOR, IISER MOHALI
-      details: |
+    - role: |
+     Research Intern - Source Apportionment and Degradation 
+     Status of Organic Matter
+    time: May 2021 - Present
+    company: DR. ANOOP AMBILI, ASSISTANT PROFESSOR, IISER MOHALI
+    details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
